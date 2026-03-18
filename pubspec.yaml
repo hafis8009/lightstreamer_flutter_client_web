@@ -1,4 +1,4 @@
-name: lightstreamer_flutter_client
+name: lightstreamer_flutter_client_web
 description: >
   A Flutter plugin for Lightstreamer enabling real-time data streaming across Android, iOS, Web, macOS, and Windows platforms.
 
